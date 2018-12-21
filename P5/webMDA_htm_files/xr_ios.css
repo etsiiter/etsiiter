@@ -1,0 +1,96 @@
+@media screen and (orientation: portrait) and (max-device-width: 559px), screen and (orientation: landscape) and (max-device-height: 559px) {
+.xr_mvp_3 {display: block;}
+.xr_mvp_2 {display: none;}
+.xr_mvp_1 {display: none;}
+.xr_pbd {margin-left: -240px;}
+#xr_xr {width: 480px; height: 3016px}
+.xr_page0 {width: 480px; height: 3016px;}
+}
+@media screen and (orientation: portrait) and (min-device-width: 560px) and (max-device-width: 799px),screen and (orientation: landscape) and (min-device-height: 560px) and (max-device-height: 799px) {
+.xr_mvp_3 {display: none;}
+.xr_mvp_2 {display: block;}
+.xr_mvp_1 {display: none;}
+.xr_pbd {margin-left: -320px;}
+#xr_xr {width: 640px; height: 1719px}
+.xr_page0 {width: 640px; height: 1719px;}
+}
+@media screen and (orientation: portrait) and (min-device-width: 800px), screen and (orientation: landscape) and (min-device-height: 800px) {
+.xr_mvp_3 {display: none;}
+.xr_mvp_2 {display: none;}
+.xr_mvp_1 {display: block;}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 841px}
+.xr_page0 {width: 960px; height: 841px;}
+}
+@media screen and (orientation: portrait) and (max-device-width: 559px), screen and (orientation: landscape) and (max-device-height: 559px) {
+.xr_mvp_6 {display: block;}
+.xr_mvp_5 {display: none;}
+.xr_mvp_4 {display: none;}
+.xr_pbd {margin-left: -240px;}
+#xr_xr {width: 480px; height: 2179px}
+.xr_page1 {width: 480px; height: 2179px;}
+}
+@media screen and (orientation: portrait) and (min-device-width: 560px) and (max-device-width: 799px),screen and (orientation: landscape) and (min-device-height: 560px) and (max-device-height: 799px) {
+.xr_mvp_6 {display: none;}
+.xr_mvp_5 {display: block;}
+.xr_mvp_4 {display: none;}
+.xr_pbd {margin-left: -320px;}
+#xr_xr {width: 640px; height: 1701px}
+.xr_page1 {width: 640px; height: 1701px;}
+}
+@media screen and (orientation: portrait) and (min-device-width: 800px), screen and (orientation: landscape) and (min-device-height: 800px) {
+.xr_mvp_6 {display: none;}
+.xr_mvp_5 {display: none;}
+.xr_mvp_4 {display: block;}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 3087px}
+.xr_page1 {width: 960px; height: 3087px;}
+}
+@media screen and (orientation: portrait) and (max-device-width: 559px), screen and (orientation: landscape) and (max-device-height: 559px) {
+.xr_mvp_9 {display: block;}
+.xr_mvp_8 {display: none;}
+.xr_mvp_7 {display: none;}
+.xr_pbd {margin-left: -240px;}
+#xr_xr {width: 480px; height: 2517px}
+.xr_page2 {width: 480px; height: 2517px;}
+}
+@media screen and (orientation: portrait) and (min-device-width: 560px) and (max-device-width: 799px),screen and (orientation: landscape) and (min-device-height: 560px) and (max-device-height: 799px) {
+.xr_mvp_9 {display: none;}
+.xr_mvp_8 {display: block;}
+.xr_mvp_7 {display: none;}
+.xr_pbd {margin-left: -320px;}
+#xr_xr {width: 640px; height: 1658px}
+.xr_page2 {width: 640px; height: 1658px;}
+}
+@media screen and (orientation: portrait) and (min-device-width: 800px), screen and (orientation: landscape) and (min-device-height: 800px) {
+.xr_mvp_9 {display: none;}
+.xr_mvp_8 {display: none;}
+.xr_mvp_7 {display: block;}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 1581px}
+.xr_page2 {width: 960px; height: 1581px;}
+}
+@media screen and (orientation: portrait) and (max-device-width: 559px), screen and (orientation: landscape) and (max-device-height: 559px) {
+.xr_mvp_12 {display: block;}
+.xr_mvp_11 {display: none;}
+.xr_mvp_10 {display: none;}
+.xr_pbd {margin-left: -240px;}
+#xr_xr {width: 480px; height: 3154px}
+.xr_page3 {width: 480px; height: 3154px;}
+}
+@media screen and (orientation: portrait) and (min-device-width: 560px) and (max-device-width: 799px),screen and (orientation: landscape) and (min-device-height: 560px) and (max-device-height: 799px) {
+.xr_mvp_12 {display: none;}
+.xr_mvp_11 {display: block;}
+.xr_mvp_10 {display: none;}
+.xr_pbd {margin-left: -320px;}
+#xr_xr {width: 640px; height: 1617px}
+.xr_page3 {width: 640px; height: 1617px;}
+}
+@media screen and (orientation: portrait) and (min-device-width: 800px), screen and (orientation: landscape) and (min-device-height: 800px) {
+.xr_mvp_12 {display: none;}
+.xr_mvp_11 {display: none;}
+.xr_mvp_10 {display: block;}
+.xr_pbd {margin-left: -480px;}
+#xr_xr {width: 960px; height: 3671px}
+.xr_page3 {width: 960px; height: 3671px;}
+}
